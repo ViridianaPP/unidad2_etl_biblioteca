@@ -14,7 +14,7 @@ Antes de ejecutar el proyecto es necesario contar con:
 * MySQL Server.
 * Una base de datos llamada `biblioteca_dw`.
 * El archivo `prestamos_biblioteca_100.csv` dentro de la carpeta `data`.
-
+* configurar las credenciales de mysql (usuario, contraseña y host) en el archivo scripts/etl_biblioteca.py.
 ---
 
 ## 3. Cómo crear la base de datos

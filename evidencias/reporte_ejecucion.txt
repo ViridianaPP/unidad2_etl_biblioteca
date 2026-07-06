@@ -2,7 +2,7 @@ REPORTE DE EJECUCIÓN ETL
 ========================
 
 Nombre del alumno: Viridiana Portilla Palestina
-Fecha y hora: 2026-07-05 01:00:26.005008
+Fecha y hora: 2026-07-05 18:50:57.020417
 Archivo procesado: prestamos_biblioteca_100.csv
 
 Filas leídas: 100
